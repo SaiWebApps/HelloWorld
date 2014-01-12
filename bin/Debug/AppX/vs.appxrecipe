@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SAIRAM</Machine>
+    <WindowsUser>Sairam Krishnan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4679682c-d868-4be7-967f-ae0b9a35bd1e</PackageIdentityName>
+    <RegisteredManifestChecksum>FAA100B8C744E309C0B97D1DCED4FB0AF53A2EEC8A3AC8AA11D96D142C29ABB1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4679682c-d868-4be7-967f-ae0b9a35bd1e_1.0.0.0_neutral__6r99cs4bgqm8m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4679682c-d868-4be7-967f-ae0b9a35bd1e_6r99cs4bgqm8m!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4679682c-d868-4be7-967f-ae0b9a35bd1e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Sairam Krishnan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Sairam Krishnan\documents\visual studio 2013\Projects\HelloWorld\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-12T16:26:06.424</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Sairam Krishnan\documents\visual studio 2013\Projects\HelloWorld\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2014-01-02T20:55:51.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sairam Krishnan\documents\visual studio 2013\Projects\HelloWorld\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-12T16:15:38.043</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sairam Krishnan\documents\visual studio 2013\Projects\HelloWorld\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-12T16:26:02.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sairam Krishnan\documents\visual studio 2013\Projects\HelloWorld\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-12T16:09:41.977</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sairam Krishnan\documents\visual studio 2013\Projects\HelloWorld\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T02:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sairam Krishnan\documents\visual studio 2013\Projects\HelloWorld\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-12-30T01:17:39.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sairam Krishnan\documents\visual studio 2013\Projects\HelloWorld\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-12-29T23:58:21.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sairam Krishnan\documents\visual studio 2013\Projects\HelloWorld\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-01-12T16:26:06.299</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
